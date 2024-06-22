@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/form-one-event/static/css/main.14f63c18.css",
+    "main.js": "/form-one-event/static/js/main.aa554471.js",
+    "index.html": "/form-one-event/index.html",
+    "main.14f63c18.css.map": "/form-one-event/static/css/main.14f63c18.css.map",
+    "main.aa554471.js.map": "/form-one-event/static/js/main.aa554471.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14f63c18.css",
+    "static/js/main.aa554471.js"
+  ]
+}
