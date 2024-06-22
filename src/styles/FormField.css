@@ -1,0 +1,43 @@
+/* src/styles/FormField.css */
+.form-group {
+  margin-bottom: 20px;
+  text-align: left;
+}
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+  font-family: "Arial", sans-serif;
+  color: #e0e0e0;
+}
+.input-container {
+  display: flex;
+  align-items: center;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+}
+.icon {
+  margin-right: 10px;
+  color: #ff007a;
+}
+input,
+select {
+  padding: 10px;
+  width: 100%;
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+  background: transparent;
+  color: #fff;
+  font-family: "Arial", sans-serif;
+}
+input:focus,
+select:focus {
+  border-color: #ff007a;
+}
+.error {
+  color: #ff4d4d;
+  font-size: 0.875em;
+  margin-top: 5px;
+}
